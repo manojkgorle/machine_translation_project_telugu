@@ -3,7 +3,7 @@ import re
 
 # Importing our translations
 # for example: "spa.txt" or "spa-eng/spa.txt"
-data_path = "teli-eng/tel.txt"
+data_path = "tel-eng/tel.txt"
 
 # Defining lines as a list of each line
 with open(data_path, 'r', encoding='utf-8') as f:
